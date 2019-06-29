@@ -1,0 +1,18 @@
+{
+  "name": "xml-json-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node ./dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.0.10",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "saxes": "^3.1.11",
+    "typescript": "^3.5.2"
+  }
+}
